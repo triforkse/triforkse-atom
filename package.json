@@ -1,0 +1,18 @@
+{
+  "name": "triforkse",
+  "main": "./lib/triforkse",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "triforkse:toggle"
+  },
+  "repository": "https://github.com/atom/triforkse",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

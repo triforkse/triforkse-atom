@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle triforkse",
+        "command": "triforkse:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "triforkse",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "triforkse:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
